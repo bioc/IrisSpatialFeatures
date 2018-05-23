@@ -2,7 +2,7 @@ Package: IrisSpatialFeatures
 Type: Package
 Title: A package to extract spatial features based on multiplex IF
         images
-Version: 1.5.0
+Version: 1.5.1
 Date: 2017-10-11
 Author: Daniel Gusenleitner, Jason L. Weirather
 Maintainer: Daniel Gusenleitner <Daniel_Gusenleitner@dfci.harvard.edu>
@@ -25,3 +25,4 @@ Suggests: knitr, rmarkdown, testthat
 biocViews: FeatureExtraction, SingleCell
 NeedsCompilation: yes
 Packaged: 2017-05-15 15:08:36 UTC; jasonweirather
+PackageStatus: Deprecated
